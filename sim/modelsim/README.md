@@ -4,7 +4,7 @@
     do run_compliance.do
     
 ### To Simulate an elf file (Assume the elf file name is abcd.elf)
-    Under the Reindeer_Step/sim/modelsim
+    Under the sim/modelsim
     
     1. Generate the DRAM data file for sim
         Python dram_dat_gen.py abcd.elf > sdram_ISSI_SDRAM_test_component.dat
