@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/github/Reindeer_Master_Platform/sim/modelsim
+vsdram_ISSI_SDRAM
+Z1 !s110 1597122822
+!i10b 1
+!s100 ;@<66@YEZNfJcH]<TTK:<3
+IIRX@:?la^<dO:zdS:IRB31
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1588889863
+Z4 8./submodules/sdram_ISSI_SDRAM.v
+Z5 F./submodules/sdram_ISSI_SDRAM.v
+L0 159
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1597122822.000000
+Z8 !s107 ./submodules/sdram_ISSI_SDRAM.v|
+Z9 !s90 -reportprogress|300|./submodules/sdram_ISSI_SDRAM.v|-work|ISSI_SDRAM|
+!i113 1
+Z10 o-work ISSI_SDRAM
+Z11 tCvgOpt 0
+nsdram_@i@s@s@i_@s@d@r@a@m
+vsdram_ISSI_SDRAM_input_efifo_module
+R1
+!i10b 1
+!s100 RF1CcizN29i9PWEAHW?W70
+IEba4WU`;RdaGKVYjW1k^N2
+R2
+R0
+R3
+R4
+R5
+Z12 L0 21
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nsdram_@i@s@s@i_@s@d@r@a@m_input_efifo_module
+vsdram_ISSI_SDRAM_test_component
+R1
+!i10b 1
+!s100 jWRYmKAe6KAHij>I[E;1k0
+IDUB31^88UP0G9OEb<z8<;3
+R2
+R0
+R3
+Z13 8./submodules/sdram_ISSI_SDRAM_test_component.v
+Z14 F./submodules/sdram_ISSI_SDRAM_test_component.v
+L0 114
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 ./submodules/sdram_ISSI_SDRAM_test_component.v|
+Z16 !s90 -reportprogress|300|./submodules/sdram_ISSI_SDRAM_test_component.v|-work|ISSI_SDRAM|
+!i113 1
+R10
+R11
+nsdram_@i@s@s@i_@s@d@r@a@m_test_component
+vsdram_ISSI_SDRAM_test_component_ram_module
+R1
+!i10b 1
+!s100 TOZ=7SXa=V_13SbVPZD[F3
+IBhUZRlWegY6Rio0eE4i:U0
+R2
+R0
+R3
+R13
+R14
+R12
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+nsdram_@i@s@s@i_@s@d@r@a@m_test_component_ram_module
